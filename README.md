@@ -5,10 +5,10 @@
 - To run the backend follow following steps.
 ### For Windows
 
-` ` `
+```
     git clone https://github.com/Hemant-Stellar/Object-Detection
     py -3 -m venv .venv
     .venv\Scripts\activate
     pip install Flask
-` ` `
+```
 
